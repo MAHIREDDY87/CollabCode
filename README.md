@@ -122,8 +122,7 @@ npm run start-all
 
 ## ✨ Author
 
-* Gorantla Mokshgna (IIT ISM Dhanbad CSE)
-
+* Gayam Mahendra Reddy (IIT ISM Dhanbad CSE)
 ---
 
 ## ⚡ Example POST (Code Execution)
