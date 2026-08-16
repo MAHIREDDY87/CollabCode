@@ -79,7 +79,7 @@ This architecture ensures both usability and strong session security across all 
 
 ```bash
 # Clone the repo
-https://github.com/Mokshgnaism/Collab_code
+https//github.com/MAHIREDDY87/CollabCode
 cd collab-editor
 
 #install the basic dependencies
@@ -122,7 +122,7 @@ npm run start-all
 
 ## ✨ Author
 
-* Gayam Mahendra Reddy (IIT ISM Dhanbad CSE)
+* Gayam Mahendra Reddy (IIT ISM Dhanbad ECE)
 ---
 
 ## ⚡ Example POST (Code Execution)
